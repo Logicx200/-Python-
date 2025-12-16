@@ -1,0 +1,8 @@
+# DOCX转Markdown转换器依赖
+# 核心转换库
+mammoth==1.6.0
+
+# Tkinter是Python标准库的一部分
+# 如果需要，可安装额外依赖：
+# tkintertable (可选，用于表格显示)
+# pillow (可选，用于图标支持)

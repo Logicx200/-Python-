@@ -1,0 +1,15 @@
+# 必需依赖
+numpy>=1.20.0
+matplotlib>=3.5.0
+Pillow>=9.0.0
+
+# GUI依赖 (Tkinter通常是Python标准库的一部分，但在某些Linux发行版中可能需要单独安装)
+# 对于Ubuntu/Debian: sudo apt-get install python3-tk
+# 对于Fedora: sudo dnf install python3-tkinter
+# 对于macOS: 通常已包含在Python安装中
+# 对于Windows: 通常已包含在Python安装中
+
+# 可选性能优化依赖
+# numba>=0.55.0      # JIT编译加速
+# scipy>=1.8.0       # 更快的ODE求解器
+# tqdm>=4.64.0       # 美观的进度条

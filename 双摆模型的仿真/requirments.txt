@@ -1,0 +1,24 @@
+
+# 双摆仿真依赖
+# 基础科学计算
+numpy>=1.21.0
+scipy>=1.9.0
+
+# 可视化
+matplotlib>=3.5.0
+
+# 进度显示
+tqdm>=4.64.0
+
+# 可选：并行计算加速
+# joblib>=1.2.0
+
+# 可选：3D可视化（未来扩展）
+# mayavi>=4.8.0
+# pyqt5>=5.15.0
+
+# 如需保存MP4，需要安装FFmpeg：
+# Windows: 从官网下载并添加到PATH
+# Ubuntu/Debian: sudo apt-get install ffmpeg
+# macOS: brew install ffmpeg
+

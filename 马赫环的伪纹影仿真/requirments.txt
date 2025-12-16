@@ -1,0 +1,13 @@
+
+# 马赫环仿真依赖
+# 基础数值计算和可视化
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# 可选：进度条显示
+tqdm>=4.64.0
+
+# 如需保存MP4，需要安装FFmpeg：
+# Windows: https://ffmpeg.org/download.html
+# Ubuntu/Debian: sudo apt-get install ffmpeg
+# macOS: brew install ffmpeg
